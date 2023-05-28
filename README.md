@@ -31,7 +31,7 @@ sumSquares(array n){
 return x;
 }
 }
-flow chart 
+flow chart Diagrama sem nome.drawio.png
 
 # mandatory 1. Order marches with weighty and measured strides. Disorder is always in a hurry.
 # reads in three numbers and writes them all in sorted order
