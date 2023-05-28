@@ -1,4 +1,4 @@
-
+mym{
 n = new array();
 done=false
 # //1. Count and initialize
@@ -29,4 +29,5 @@ sumSquares(array n){
        x += n[i];
      }
 return x;
+}
 }
