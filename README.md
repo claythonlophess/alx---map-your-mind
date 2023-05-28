@@ -31,3 +31,14 @@ sumSquares(array n){
 return x;
 }
 }
+flow chart 
+
+# mandatory 1. Order marches with weighty and measured strides. Disorder is always in a hurry.
+# reads in three numbers and writes them all in sorted order
+
+Step 1: Input the value for variables X, Y, Z.
+Step 2: Read the integers X, Y, Z.
+Step 3: Check if x>y, x>z, y>z
+Step 4: Print the possible order.
+
+flow chart ex1.png
